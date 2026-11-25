@@ -1,4 +1,4 @@
-# アニメファイルリネーマー（anime_rename）
+# アニメリネーマー（anime_renamer）
 
 しょぼいカレンダー（cal.syoboi.jp）や Wikipedia からサブタイトルを取得し、アニメの動画ファイル名を「作品名＋話数＋サブタイトル」の形式に一括で変更する Windows 向け GUI ツールです。
 
@@ -18,7 +18,7 @@
 2. 動画ファイルをドラッグ＆ドロップ（またはフォルダを指定）します。
 3. 変更後のファイル名をプレビューで確認してから実行します。
 
-設定は `%APPDATA%\SyobocalRenamer\settings.json` 付近に保存されます。
+設定は `%APPDATA%\SyobocalRenamer\settings.json` に保存されます。
 
 ## ライセンス
 MIT License（[LICENSE](LICENSE)）。しょぼいカレンダーの API は節度を守って利用してください。

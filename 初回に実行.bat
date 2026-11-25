@@ -1,6 +1,6 @@
 ﻿@echo off
 chcp 65001 >nul
-title Syobocal Requirements Installer
+title anime_renamer setup
 
 echo Installing requests...
 py -m pip install requests

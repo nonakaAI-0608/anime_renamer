@@ -763,7 +763,7 @@ def validate_and_rename(targets):
 class AnimeRenamerApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("アニメファイルリネーマー")
+        self.root.title("アニメリネーマー")
         self.root.geometry("1150x760")
         self.root.minsize(900, 650)
 
